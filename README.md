@@ -1,6 +1,11 @@
 # webpage-sentiment-analysis-using-LLM
 
+
+# Requirements
+
 You will need the following packages: pillow, google-genai, playwright.
+
+In load_data.py, you will need to enter your Google GenAI API key on this line: os.environ["GOOGLE_API_KEY"] = "your_API_key"
 
 
 
